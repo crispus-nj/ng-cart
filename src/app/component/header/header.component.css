@@ -1,0 +1,12 @@
+.form-control {
+    border-radius: 3px;
+    width: 600px;
+    margin-left: 20px;
+}
+.fa-magnifying-glass {
+    position: absolute;
+    right: 37rem;
+    top: 22px;
+    color: blue;
+    z-index: 10;
+}
